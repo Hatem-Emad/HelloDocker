@@ -1,0 +1,5 @@
+# Use the .NET runtime image as the base for the final image
+FROM mcr.microsoft.com/dotnet/aspnet:6.0
+WORKDIR /app
+COPY bin/Release/net6.0/publish/ .
+ENTRYPOINT ["dotnet", "HelloDocker.dll"]

@@ -1,0 +1,5 @@
+D:\DEPI\FirstProject\HelloDocker\bin\Release\net6.0\publish\HelloDocker.exe
+D:\DEPI\FirstProject\HelloDocker\bin\Release\net6.0\publish\HelloDocker.dll
+D:\DEPI\FirstProject\HelloDocker\bin\Release\net6.0\publish\HelloDocker.deps.json
+D:\DEPI\FirstProject\HelloDocker\bin\Release\net6.0\publish\HelloDocker.runtimeconfig.json
+D:\DEPI\FirstProject\HelloDocker\bin\Release\net6.0\publish\HelloDocker.pdb

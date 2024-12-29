@@ -1,0 +1,15 @@
+D:\DEPI\FirstProject\HelloDocker\bin\Release\net6.0\HelloDocker.exe
+D:\DEPI\FirstProject\HelloDocker\bin\Release\net6.0\HelloDocker.deps.json
+D:\DEPI\FirstProject\HelloDocker\bin\Release\net6.0\HelloDocker.runtimeconfig.json
+D:\DEPI\FirstProject\HelloDocker\bin\Release\net6.0\HelloDocker.dll
+D:\DEPI\FirstProject\HelloDocker\bin\Release\net6.0\HelloDocker.pdb
+D:\DEPI\FirstProject\HelloDocker\obj\Release\net6.0\HelloDocker.csproj.AssemblyReference.cache
+D:\DEPI\FirstProject\HelloDocker\obj\Release\net6.0\HelloDocker.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\FirstProject\HelloDocker\obj\Release\net6.0\HelloDocker.AssemblyInfoInputs.cache
+D:\DEPI\FirstProject\HelloDocker\obj\Release\net6.0\HelloDocker.AssemblyInfo.cs
+D:\DEPI\FirstProject\HelloDocker\obj\Release\net6.0\HelloDocker.csproj.CoreCompileInputs.cache
+D:\DEPI\FirstProject\HelloDocker\obj\Release\net6.0\HelloDocker.dll
+D:\DEPI\FirstProject\HelloDocker\obj\Release\net6.0\refint\HelloDocker.dll
+D:\DEPI\FirstProject\HelloDocker\obj\Release\net6.0\HelloDocker.pdb
+D:\DEPI\FirstProject\HelloDocker\obj\Release\net6.0\HelloDocker.genruntimeconfig.cache
+D:\DEPI\FirstProject\HelloDocker\obj\Release\net6.0\ref\HelloDocker.dll
